@@ -1,4 +1,4 @@
-# daily-planner
+# Daily Planner
 ## Description
 This is a daily planner app that allows the user to track their daily activities.
 
