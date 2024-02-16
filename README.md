@@ -3,7 +3,7 @@
 This is a daily planner app that allows the user to track their daily activities.
 
 ## Installation
-CLick [here](url) for the deployed app
+CLick [here](https://pamam31.github.io/planner/) for the deployed app
 
 ## Usage
 ![alt text](./Images/daily-scheduler.png)
