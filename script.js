@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    // Display current day
+
     $("#currentDay").text(dayjs().format("dddd, MMMM D"));
   
     // Get the current hour
